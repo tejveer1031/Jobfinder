@@ -14,6 +14,21 @@ class ViewController: UIViewController {
         
     }
 
-
+    @IBAction func Login(_ sender: Any) {
+        performSegue(withIdentifier: "goTosignUpStoryboard", sender: self)
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+            if segue.identifier == "goTosignUpStoryboard" {
+                guard segue.destination is UIViewController else { return }
+            }
+        if segue.identifier == "goToSelection" {
+            guard segue.destination is UIViewController else { return }
+        }
+        }
+    
+    
+    @IBAction func createnewAccount(_ sender: Any) {
+    }
 }
 
