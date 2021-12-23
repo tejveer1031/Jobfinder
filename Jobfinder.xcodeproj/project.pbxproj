@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0134FBCC2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */; };
+		0134FBCD2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */; };
+		0134FBCE2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */; };
 		937480572773CEAA006B8AAE /* Selection.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 937480562773CEAA006B8AAE /* Selection.storyboard */; };
 		937480582773CEAA006B8AAE /* Selection.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 937480562773CEAA006B8AAE /* Selection.storyboard */; };
 		937480592773CEAA006B8AAE /* Selection.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 937480562773CEAA006B8AAE /* Selection.storyboard */; };
@@ -41,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = employee_home_page.storyboard; sourceTree = "<group>"; };
 		937480562773CEAA006B8AAE /* Selection.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Selection.storyboard; sourceTree = "<group>"; };
 		93903234277267E500139E43 /* signUp.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = signUp.storyboard; sourceTree = "<group>"; };
 		93B824132770E79600BDB948 /* Jobfinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jobfinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -112,6 +116,7 @@
 				93B8241A2770E79600BDB948 /* ViewController.swift */,
 				93B8241C2770E79600BDB948 /* Main.storyboard */,
 				93903234277267E500139E43 /* signUp.storyboard */,
+				0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */,
 				93B824222770E79700BDB948 /* Assets.xcassets */,
 				93B824242770E79700BDB948 /* LaunchScreen.storyboard */,
 				93B824272770E79700BDB948 /* Info.plist */,
@@ -242,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0134FBCC2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */,
 				93B824262770E79700BDB948 /* LaunchScreen.storyboard in Resources */,
 				93B824232770E79700BDB948 /* Assets.xcassets in Resources */,
 				937480572773CEAA006B8AAE /* Selection.storyboard in Resources */,
@@ -254,6 +260,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0134FBCD2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */,
 				937480582773CEAA006B8AAE /* Selection.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,6 +269,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0134FBCE2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */,
 				937480592773CEAA006B8AAE /* Selection.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
