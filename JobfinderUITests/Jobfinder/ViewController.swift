@@ -8,10 +8,17 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    
+    
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+       
     }
 
     @IBAction func Login(_ sender: Any) {
@@ -23,6 +30,9 @@ class ViewController: UIViewController {
                 guard segue.destination is UIViewController else { return }
             }
         if segue.identifier == "goToSelection" {
+            guard segue.destination is UIViewController else { return }
+        }
+        if segue.identifier == "goToEmployerHomepage" {
             guard segue.destination is UIViewController else { return }
         }
         }

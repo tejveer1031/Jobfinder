@@ -30,6 +30,9 @@
                                             </backgroundConfiguration>
                                             <directionalEdgeInsets key="contentInsets" top="0.0" leading="0.0" bottom="0.0" trailing="0.0"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <segue destination="mKO-qX-dvw" kind="presentation" identifier="goToEmployerHomepage" modalPresentationStyle="fullScreen" modalTransitionStyle="coverVertical" id="5rm-zx-579"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" reversesTitleShadowWhenHighlighted="YES" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" pointerInteraction="YES" changesSelectionAsPrimaryAction="YES" role="primary" translatesAutoresizingMaskIntoConstraints="NO" id="ZIR-98-uee">
                                         <rect key="frame" x="207" y="0.0" width="201" height="236"/>
@@ -57,6 +60,16 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="37.681159420289859" y="62.946428571428569"/>
+        </scene>
+        <!--employeehomePage-->
+        <scene sceneID="KV7-oM-Kc2">
+            <objects>
+                <viewControllerPlaceholder storyboardName="EmployeeHomePage" referencedIdentifier="employeehomePage" id="mKO-qX-dvw" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="xks-Yc-bNh"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="MdT-4s-CtV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="674" y="63"/>
         </scene>
     </scenes>
     <resources>

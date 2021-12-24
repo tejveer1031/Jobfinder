@@ -7,20 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0134FBCC2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */; };
-		0134FBCD2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */; };
-		0134FBCE2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */; };
-		937480572773CEAA006B8AAE /* Selection.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 937480562773CEAA006B8AAE /* Selection.storyboard */; };
-		937480582773CEAA006B8AAE /* Selection.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 937480562773CEAA006B8AAE /* Selection.storyboard */; };
-		937480592773CEAA006B8AAE /* Selection.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 937480562773CEAA006B8AAE /* Selection.storyboard */; };
-		93903235277267E500139E43 /* signUp.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93903234277267E500139E43 /* signUp.storyboard */; };
-		93B824172770E79600BDB948 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B824162770E79600BDB948 /* AppDelegate.swift */; };
-		93B824192770E79600BDB948 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B824182770E79600BDB948 /* SceneDelegate.swift */; };
-		93B8241B2770E79600BDB948 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B8241A2770E79600BDB948 /* ViewController.swift */; };
-		93B8241E2770E79600BDB948 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93B8241C2770E79600BDB948 /* Main.storyboard */; };
-		93B824212770E79600BDB948 /* Jobfinder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 93B8241F2770E79600BDB948 /* Jobfinder.xcdatamodeld */; };
-		93B824232770E79700BDB948 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93B824222770E79700BDB948 /* Assets.xcassets */; };
-		93B824262770E79700BDB948 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93B824242770E79700BDB948 /* LaunchScreen.storyboard */; };
+		936BCCE3277543FF00D5F4B9 /* Jobfinder in Resources */ = {isa = PBXBuildFile; fileRef = 936BCCE2277543FF00D5F4B9 /* Jobfinder */; };
+		936BCCE4277543FF00D5F4B9 /* Jobfinder in Resources */ = {isa = PBXBuildFile; fileRef = 936BCCE2277543FF00D5F4B9 /* Jobfinder */; };
+		936BCCE5277543FF00D5F4B9 /* Jobfinder in Resources */ = {isa = PBXBuildFile; fileRef = 936BCCE2277543FF00D5F4B9 /* Jobfinder */; };
 		93B824312770E79800BDB948 /* JobfinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B824302770E79800BDB948 /* JobfinderTests.swift */; };
 		93B8243B2770E79800BDB948 /* JobfinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B8243A2770E79800BDB948 /* JobfinderUITests.swift */; };
 		93B8243D2770E79800BDB948 /* JobfinderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B8243C2770E79800BDB948 /* JobfinderUITestsLaunchTests.swift */; };
@@ -44,18 +33,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = employee_home_page.storyboard; sourceTree = "<group>"; };
-		937480562773CEAA006B8AAE /* Selection.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Selection.storyboard; sourceTree = "<group>"; };
-		93903234277267E500139E43 /* signUp.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = signUp.storyboard; sourceTree = "<group>"; };
+		936BCCE2277543FF00D5F4B9 /* Jobfinder */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Jobfinder; path = JobfinderUITests/Jobfinder; sourceTree = "<group>"; };
 		93B824132770E79600BDB948 /* Jobfinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jobfinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		93B824162770E79600BDB948 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		93B824182770E79600BDB948 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		93B8241A2770E79600BDB948 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		93B8241D2770E79600BDB948 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		93B824202770E79600BDB948 /* Jobfinder.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Jobfinder.xcdatamodel; sourceTree = "<group>"; };
-		93B824222770E79700BDB948 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		93B824252770E79700BDB948 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		93B824272770E79700BDB948 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93B8242C2770E79800BDB948 /* JobfinderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JobfinderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93B824302770E79800BDB948 /* JobfinderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobfinderTests.swift; sourceTree = "<group>"; };
 		93B824362770E79800BDB948 /* JobfinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JobfinderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -91,7 +70,7 @@
 		93B8240A2770E79600BDB948 = {
 			isa = PBXGroup;
 			children = (
-				93B824152770E79600BDB948 /* Jobfinder */,
+				936BCCE2277543FF00D5F4B9 /* Jobfinder */,
 				93B8242F2770E79800BDB948 /* JobfinderTests */,
 				93B824392770E79800BDB948 /* JobfinderUITests */,
 				93B824142770E79600BDB948 /* Products */,
@@ -106,24 +85,6 @@
 				93B824362770E79800BDB948 /* JobfinderUITests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		93B824152770E79600BDB948 /* Jobfinder */ = {
-			isa = PBXGroup;
-			children = (
-				93B824162770E79600BDB948 /* AppDelegate.swift */,
-				93B824182770E79600BDB948 /* SceneDelegate.swift */,
-				93B8241A2770E79600BDB948 /* ViewController.swift */,
-				93B8241C2770E79600BDB948 /* Main.storyboard */,
-				93903234277267E500139E43 /* signUp.storyboard */,
-				0134FBCB2774CF8B006E9C88 /* employee_home_page.storyboard */,
-				93B824222770E79700BDB948 /* Assets.xcassets */,
-				93B824242770E79700BDB948 /* LaunchScreen.storyboard */,
-				93B824272770E79700BDB948 /* Info.plist */,
-				93B8241F2770E79600BDB948 /* Jobfinder.xcdatamodeld */,
-				937480562773CEAA006B8AAE /* Selection.storyboard */,
-			);
-			path = Jobfinder;
 			sourceTree = "<group>";
 		};
 		93B8242F2770E79800BDB948 /* JobfinderTests */ = {
@@ -247,12 +208,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0134FBCC2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */,
-				93B824262770E79700BDB948 /* LaunchScreen.storyboard in Resources */,
-				93B824232770E79700BDB948 /* Assets.xcassets in Resources */,
-				937480572773CEAA006B8AAE /* Selection.storyboard in Resources */,
-				93903235277267E500139E43 /* signUp.storyboard in Resources */,
-				93B8241E2770E79600BDB948 /* Main.storyboard in Resources */,
+				936BCCE3277543FF00D5F4B9 /* Jobfinder in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,8 +216,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0134FBCD2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */,
-				937480582773CEAA006B8AAE /* Selection.storyboard in Resources */,
+				936BCCE4277543FF00D5F4B9 /* Jobfinder in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,8 +224,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0134FBCE2774CF8B006E9C88 /* employee_home_page.storyboard in Resources */,
-				937480592773CEAA006B8AAE /* Selection.storyboard in Resources */,
+				936BCCE5277543FF00D5F4B9 /* Jobfinder in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,10 +235,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93B8241B2770E79600BDB948 /* ViewController.swift in Sources */,
-				93B824212770E79600BDB948 /* Jobfinder.xcdatamodeld in Sources */,
-				93B824172770E79600BDB948 /* AppDelegate.swift in Sources */,
-				93B824192770E79600BDB948 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,25 +269,6 @@
 			targetProxy = 93B824372770E79800BDB948 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		93B8241C2770E79600BDB948 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				93B8241D2770E79600BDB948 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		93B824242770E79700BDB948 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				93B824252770E79700BDB948 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		93B8243E2770E79800BDB948 /* Debug */ = {
@@ -513,7 +444,6 @@
 		93B824442770E79800BDB948 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -532,7 +462,6 @@
 		93B824452770E79800BDB948 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -551,7 +480,6 @@
 		93B824472770E79800BDB948 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -568,7 +496,6 @@
 		93B824482770E79800BDB948 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -622,19 +549,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		93B8241F2770E79600BDB948 /* Jobfinder.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				93B824202770E79600BDB948 /* Jobfinder.xcdatamodel */,
-			);
-			currentVersion = 93B824202770E79600BDB948 /* Jobfinder.xcdatamodel */;
-			path = Jobfinder.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 93B8240B2770E79600BDB948 /* Project object */;
 }
